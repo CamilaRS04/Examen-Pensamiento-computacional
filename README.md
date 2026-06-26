@@ -106,3 +106,8 @@ La estela de microburbujas la agregué casi al final. Al principio sentía que l
 Dificultades
 
 Lo más complicado fue lograr que el espacio entre las burbujas se mantuviera parejo cuando el usuario cambia la cantidad con mouseX como la distancia depende de la cantidad de burbujas, cuando esta cambia muy rápido también cambia el espacio entre ellas y se producen algunos saltos, probé usar lerp() para suavizar ese efecto pero no quedó del todo bien, así que es algo que todavía podría mejorar.
+
+# diagrama de flujo
+<img width="2400" height="1560" alt="diagrama_flujo_burbujas_mar" src="https://github.com/user-attachments/assets/df4d46d3-e6db-41c9-b0c0-dcb86e3cf5a1" />
+
+
