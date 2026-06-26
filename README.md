@@ -2,6 +2,11 @@
 # 🌊 Sistema visual generativo e interactivo — Burbujas en el mar y foca interactiva
 *Autora: Camila Romo*
 ---
+
+<img width="746" height="742" alt="image" src="https://github.com/user-attachments/assets/91941102-177b-485f-84b1-9d71ab249fe7" />
+
+---
+Link al p5js: 
 ##  Descripción del proyecto
 *Burbujas en el Mar* quise basar mi examen en la solemne 2, con el sistema de orbitas flotanto pero cambiando detalles, por ejemplo ahora son burbujas. es un sistema visual generativo e interactivo desarrollado en p5.js, en donde el usuario controla en tiempo real la cantidad y el tamaño de burbujas que ascienden por un fondo marino animado, mientras mueve una imagen de foca a través del espacio usando el teclado. El sistema responde continuamente al mouse y a teclas.
 
@@ -80,7 +85,9 @@ Outputs (salidas)
 
 # Marco conceptual
 
-*Burbujas en el Mar* este proyecto está basado en el arte generativo, que consiste en crear una obra a partir de reglas y código
+*Burbujas en el Mar* para este proyecto tomé como referencia dos trabajos, el primero fue Ponyo de Hayao Miyazaki, porque las escenas bajo el mar tienen una atmósfera muy parecida a la que quería lograr. se ven distintos tonos de azul que se oscurecen con la profundidad, burbujas que suben lentamente y un ambiente tranquilo, por eso usé una paleta de colores que va desde azules claros en la superficie hasta azules muy oscuros en el fondo.
+
+El segundo referente fue Zach Lieberman, un artista que crea obras interactivas usando programación, me gustó la forma en que hace que figuras simples, como círculos y las formas transparentes, se muevan y cambien siguiendo reglas del código. En mi proyecto pasa algo parecido, las burbujas se generan y se mueven gracias al programa, y el usuario puede interactuar con ellas moviendo el mouse. La idea no es solo que la persona vea la animación, sino que también pueda formar parte de la experiencia y cambiar lo que ocurre en la pantalla.
 
 
 
