@@ -1,12 +1,13 @@
 # Examen-Pensamiento-computacional
 # 🌊 Sistema visual generativo e interactivo — Burbujas en el mar y foca interactiva
 *Autora: Camila Romo*
+
+Link al p5js: https://editor.p5js.org/camila.romo/sketches/YP5Qvu4Vt
 ---
 
 <img width="746" height="742" alt="image" src="https://github.com/user-attachments/assets/91941102-177b-485f-84b1-9d71ab249fe7" />
 
 ---
-Link al p5js: 
 ##  Descripción del proyecto
 *Burbujas en el Mar* quise basar mi examen en la solemne 2, con el sistema de orbitas flotanto pero cambiando detalles, por ejemplo ahora son burbujas. es un sistema visual generativo e interactivo desarrollado en p5.js, en donde el usuario controla en tiempo real la cantidad y el tamaño de burbujas que ascienden por un fondo marino animado, mientras mueve una imagen de foca a través del espacio usando el teclado. El sistema responde continuamente al mouse y a teclas.
 
@@ -93,6 +94,22 @@ El segundo referente fue Zach Lieberman, un artista que crea obras interactivas 
 
 
 # Registro visual del proceso
+ *Fondo marino*
+ <img width="743" height="742" alt="Captura de pantalla 2026-06-26 042945" src="https://github.com/user-attachments/assets/e9c40d1c-32bd-46ec-89de-53d387a6f116" />
+
+ ---
+*Prueba de burbujas*
+<img width="642" height="537" alt="Captura de pantalla 2026-06-26 043157" src="https://github.com/user-attachments/assets/26663646-32c7-4470-b718-8f6b420efa86" />
+
+ ---
+*Mas burbujas* 
+<img width="592" height="643" alt="Captura de pantalla 2026-06-26 044104" src="https://github.com/user-attachments/assets/4c3bc855-f1a4-40fd-953e-d11cda6c3c24" />
+
+ ---
+*Foca elegida, llamada Mamegoru*
+<img width="260" height="150" alt="Captura de pantalla 2026-06-25 222553" src="https://github.com/user-attachments/assets/55aa5bfc-9f55-4db5-b8ca-f5569f5babee" />
+
+ ---
 
 ---
 
