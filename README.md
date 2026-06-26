@@ -64,7 +64,7 @@ Link al p5js: https://editor.p5js.org/camila.romo/sketches/YP5Qvu4Vt
 >
 >**3 estados** — `inicio`, `interaccion`, `cierre`
 >
-> **Multimedia** — Imagen `oca.png` cargada con `preload()` y renderizada con `image()`
+> **Multimedia** — Imagen `foca.png` cargada con `preload()` y renderizada con `image()`
 >
 
 Outputs (salidas)
